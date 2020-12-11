@@ -1,0 +1,43 @@
+/* R0331 JavaScript syksy 2020, kolmannen projektin tyylimäärittelyt */
+/* (c) Janne Lahdenperä 2020 */
+body {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.container {
+    margin: 40px;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+#result {
+    color: #000000;
+    padding: 10px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 1px;
+    border-radius: 5px;
+}
+
+#dateSelector {
+    display: none;
+}
+
+#customDate {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#testButton {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+
